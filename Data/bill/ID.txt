@@ -1,0 +1,15 @@
+			ngày ???
+		hóa đơn 
+bác sĩ kê đơn: tên 
+Bệnh nhân
+
+các loại phí: 
+	-tên (bao gồm phí khám bệnh, chuẩn đoán, thuốc v.v.)		tiền 
+	
+
+
+thành tiền: 						ghi ở đay
+
+
+
+thanh toán (complete hay fall)

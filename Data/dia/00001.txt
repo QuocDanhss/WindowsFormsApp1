@@ -1,0 +1,19 @@
+						ngày 14/9/2023
+		Chuẩn đoán 
+
+Bác Sĩ chuẩn đoán : 	Phạm Văn Hùng 
+
+Bệnh nhân: 		Đỗ Thị Hà 
+
+thông tin chuẩn đoán:
+	-đường huyết: cao 
+	-huyết áp: không ổn định
+	-nồng độ cồn: ổn định
+
+kết quả chuẩn đoán: 
+	-tiểu đường: dương tính 
+	-máu nhiễm mỡ: âm tính
+
+kết luận: 
+	-bệnh nhân có các dấu hiệu của tiểu đường 
+

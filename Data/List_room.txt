@@ -1,0 +1,5 @@
+Id_room,room,status_room,capatiy,apartment
+01102,01102,clear,08,Anesthesia Department
+01103,01102,clear,08,Anesthesia Department
+02201,02201,full,08,Anesthesia Department
+02202,02202,full,08,Anesthesia Department
